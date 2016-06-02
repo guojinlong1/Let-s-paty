@@ -12,6 +12,7 @@
             android:layout_width="30dp"
             android:layout_height="30dp"
             android:layout_marginLeft="10dp"
+            android:onClick="back"
             android:src="@drawable/smssdk_back_arrow"
             android:layout_gravity="center_vertical"/>
 
@@ -84,6 +85,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <CheckBox
+            android:id="@+id/isChecked"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="45dp"
