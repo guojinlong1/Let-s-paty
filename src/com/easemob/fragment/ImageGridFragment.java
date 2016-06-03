@@ -1,4 +1,4 @@
-package com.easemob.chatuidemo.activity;
+package com.easemob.fragment;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -33,6 +33,7 @@ import android.widget.Toast;
 
 import com.easemob.chatuidemo.BuildConfig;
 import com.easemob.chatuidemo.R;
+import com.easemob.chatuidemo.activity.RecorderVideoActivity;
 import com.easemob.chatuidemo.domain.VideoEntity;
 import com.easemob.chatuidemo.video.util.ImageCache;
 import com.easemob.chatuidemo.video.util.ImageResizer;

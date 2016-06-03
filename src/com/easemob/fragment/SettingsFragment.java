@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.easemob.chatuidemo.activity;
+package com.easemob.fragment;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -39,6 +39,12 @@ import com.easemob.chatuidemo.DemoApplication;
 import com.easemob.chatuidemo.DemoHXSDKHelper;
 import com.easemob.chatuidemo.DemoHXSDKModel;
 import com.easemob.chatuidemo.R;
+import com.easemob.chatuidemo.activity.BlacklistActivity;
+import com.easemob.chatuidemo.activity.DiagnoseActivity;
+import com.easemob.chatuidemo.activity.LoginActivity;
+import com.easemob.chatuidemo.activity.MainActivity;
+import com.easemob.chatuidemo.activity.OfflinePushNickActivity;
+import com.easemob.chatuidemo.activity.UserProfileActivity;
 
 /**
  * 设置界面
